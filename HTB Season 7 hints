@@ -1,0 +1,13 @@
+Here are hints if anyone is struggling:
+USER:
+1. Check SMB share you will something (you can just unzip it and read xml) 
+
+2. Abuse service named same as domain and get code execution (authenticate to this service as non domain user) 
+
+3. Read some config files to get password 
+
+
+ROOT:
+1. DACL abuse 
+
+2. ADCS abuse and you are admin
